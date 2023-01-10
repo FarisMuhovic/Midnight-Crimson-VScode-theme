@@ -1,16 +1,4 @@
 # midnight-crimson README
 
-## Working with Markdown
+Introducing the Midnight Crimson theme for Visual Studio Code, a dark mode extension that will enhance your coding experience. This theme features a dark gray background with deep red accents, providing a visually striking and high-contrast appearance that makes your code easy to read. The Midnight Crimson theme also includes shades of white and light gray for better legibility of the code. This theme is perfect for those looking for a sleek, modern look while keeping their code organized and easy to read. Give your code a touch of mystery and intensity with Midnight Crimson.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
