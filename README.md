@@ -1,6 +1,6 @@
 ## Midnight Crimson theme
 
-# Introducing the Midnight Crimson theme for Visual Studio Code, a dark mode extension that will enhance your coding experience. This theme features a dark gray background with deep red accents, providing a visually striking and high-contrast appearance that makes your code easy to read. The Midnight Crimson theme also includes shades of white and light gray for better legibility of the code. This theme is perfect for those looking for a sleek, modern look while keeping their code organized and easy to read. Give your code a touch of mystery and intensity with Midnight Crimson.
+Introducing the Midnight Crimson theme for Visual Studio Code, a dark mode extension that will enhance your coding experience. This theme features a dark gray background with deep red accents, providing a visually striking and high-contrast appearance that makes your code easy to read. The Midnight Crimson theme also includes shades of white and light gray for better legibility of the code. This theme is perfect for those looking for a sleek, modern look while keeping their code organized and easy to read. Give your code a touch of mystery and intensity with Midnight Crimson.
 **Example of html file:**
 ![showcase1](images/pic1.PNG)
 **Example of css file:**
